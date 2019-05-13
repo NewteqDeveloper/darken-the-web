@@ -30,6 +30,6 @@ Or for easier access (if you have the same version):
 
 In this location you will find the `ssb-interop.js` file.
 
-Copy the lines from the `ssb-interop-modifications.js` file and past them at the bottom of the original slack one.
+Copy the lines from the `ssb-interop-modifications.js` file and paste them at the bottom of the original slack one.
 
 Completely restart Slack and you should see a dark themed slack now :)
