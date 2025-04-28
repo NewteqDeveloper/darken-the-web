@@ -1,3 +1,6 @@
+# Migrated
+Moved to: https://codeberg.org/newteq_github_archives/darken-the-web
+
 # Archived
 
 This project is no longer relevant, since most software is now supporting dark mode out of the box.
